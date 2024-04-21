@@ -1,0 +1,5 @@
+Pandas
+numpy
+tensorflow
+opencv
+os
